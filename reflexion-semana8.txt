@@ -1,0 +1,6 @@
+cd ~/programadores-por-la-paz-semana-6
+git status
+git add .
+git commit -m "Actividad semana 8"
+git push origin master
+
